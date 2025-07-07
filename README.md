@@ -1,7 +1,6 @@
-<h1 align="center" style="font-weight: 900; letter-spacing: 3px;">
-    JANG INKYUN <span style="color:#6cc644;">GITHUB</span> 
-</h1>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f3417357-6bae-404e-95a6-55d709f3d5e6" alt="My Image" width="700" />
+</p>
 
 
 <p align="center">
@@ -20,9 +19,4 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f3417357-6bae-404e-95a6-55d709f3d5e6" alt="My Image" width="500" />
 </p>
