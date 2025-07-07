@@ -24,5 +24,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94b58f25-768c-419a-856c-63d9927c5794" alt="My Image" width="600" />
+  <img src="https://github.com/user-attachments/assets/94b58f25-768c-419a-856c-63d9927c5794" alt="My Image" width="500" height="300" />
 </p>
