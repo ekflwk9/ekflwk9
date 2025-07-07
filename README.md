@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://www.youtube.com/@Ovel1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Visit_Channel-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Button" />
-  </a>
-</p>
 
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
