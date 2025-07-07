@@ -22,7 +22,8 @@
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
 </p>
 
+![제목을-입력해주세요_-001](https://github.com/user-attachments/assets/f3417357-6bae-404e-95a6-55d709f3d5e6)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94b58f25-768c-419a-856c-63d9927c5794" alt="My Image" width="500" height="300" />
+  <img src="https://github.com/user-attachments/assets/f3417357-6bae-404e-95a6-55d709f3d5e6" alt="My Image" width="500" />
 </p>
