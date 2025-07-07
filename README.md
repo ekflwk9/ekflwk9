@@ -1,4 +1,6 @@
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/채널ID)
+
+[![Watch on YouTube](https://img.youtube.com/vi/영상ID/hqdefault.jpg)]([https://www.youtube.com/watch?v=영상ID](https://www.youtube.com/@Ovel1))
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/채널ID](https://www.youtube.com/watch?v=vZXo-UTp3sI))
 
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
